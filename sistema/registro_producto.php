@@ -56,7 +56,7 @@ if (!empty($_POST)) {
 
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/sistema/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <?php include "../sistema/includes/scripts.php"; ?>
     <title>Registro Producto</title>
 </head>

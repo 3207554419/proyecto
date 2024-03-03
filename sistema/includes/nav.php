@@ -26,8 +26,8 @@
 		<li class="principal">
 			<a href="#">Productos</a>
 			<ul>
-				<li><a href="../../sistema/registro_producto.php">Nuevo Producto</a></li>
-				<li><a href="../../sistema/lista_productos.php">Lista de Productos</a></li>
+				<li><a href="registro_producto.php">Nuevo Producto</a></li>
+				<li><a href="lista_productos.php">Lista de Productos</a></li>
 			</ul>
 		</li>
 		<li class="principal">

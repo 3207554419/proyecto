@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-    <link rel="stylesheet" href="/sistema/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <?php include "includes/scripts.php"; ?>
 	<title>Lista de usuarios</title>
 </head>

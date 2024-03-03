@@ -55,7 +55,7 @@ if(empty($_REQUEST['id']) || $_REQUEST['id'] == 32456244 )
 <head>
 	<meta charset="UTF-8">
     <?php include "includes/scripts.php"; ?>
-    <link rel="stylesheet" href="/sistema/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 	<title>Eliminar usuario</title>
 </head>
 <body>

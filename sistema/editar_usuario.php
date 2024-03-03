@@ -91,7 +91,7 @@ include "../sistema/conexion.php";
 <head>
 	<meta charset="UTF-8">
     <?php include "includes/scripts.php"; ?>
-    <link rel="stylesheet" href="/sistema/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 	<title>Actualizar Usuario</title>
 </head>
 <body>

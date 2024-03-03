@@ -57,7 +57,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="../css/styles.css">
   <link rel="icon" href="../img/logo.png" type="image/png">
   <title>Iniciar Sesión</title>
 </head>
@@ -86,8 +86,8 @@
           <input type="password" placeholder="Contraseña" />
         </div>
         <div class="ingresar-link">
-        <a href="../sistema/index2.php">Administrador</a>
-      </div>
+          <a href="../sistema/index2.php">Administrador</a>
+        </div>
         <div class="forgot-password">
           <a href="../interfaz_usuario/recuperar_contraseña.php">Recuperar Contraseña</a>
         </div>
@@ -97,7 +97,7 @@
       <div class="register-link">
         <a href="../interfaz_usuario/registrar_usuario.php">Registrarse</a>
       </div>
-      
+
     </div>
   </div>
 
