@@ -1,12 +1,12 @@
 <link rel="icon" href="../img/logo.png" type="image/png">
 <nav>
 	<ul>
-		<li><a href="../../sistema/index.php">Inicio</a></li>
+		<li><a href="index.php">Inicio</a></li>
 		<li class="principal">
 			<a href="#">Usuarios</a>
 			<ul>
-				<li><a href="../../sistema/registro_usuario.php">Nuevo Usuario</a></li>
-				<li><a href="../../sistema/lista_usuarios.php">Lista de Usuarios</a></li>
+				<li><a href="registro_usuario.php">Nuevo Usuario</a></li>
+				<li><a href="lista_usuarios.php">Lista de Usuarios</a></li>
 			</ul>
 		</li>
 		<li class="principal">
