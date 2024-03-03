@@ -15,6 +15,7 @@
 
 <body>
 
+</style>
 
   <header>
     <nav class="navbarr navbar-expand-lg bg-body-tertiary">
@@ -33,6 +34,9 @@
             </li>
             <li class="nav-item">
               <a class="boton_header " aria-disabled="page" href="#footer">Contacto</a>
+            </li>
+            <li class="nav-item">
+              <a class="boton_header " aria-disabled="page" href="../interfaz_usuario/categorias.php">Categorias</a>
             </li>
           </ul>
           <form class="d-flex" role="search">
@@ -111,6 +115,19 @@
 
 
   <main id="main">
+
+
+  <center> <h2>Categorias</h2> </center>
+<br><br><br>
+<center> <div class="container_box">
+	<div class="box box-1" style="--img: url(https://surtitodo.vtexassets.com/assets/vtex.file-manager-graphql/images/1baab20e-a42e-49b5-9bfb-42bb9a375cc9___27819712095faf8376a61d27eb589e80.jpg);" data-text="Vestidos"></div>
+	<div class="box box-2" style="--img: url(https://stopjeans.vtexassets.com/arquivos/ids/210086-500-auto?v=638436398554530000&width=500&height=auto&aspect=true);" data-text="Conjunto"></div>
+	<div class="box box-3" style="--img: url(https://images.stylight.net/image/upload/t_web_product_330x440max_nobg/q_auto:eco,f_auto/aclz62neepwmib6zdjjd.webp);" data-text="Ropa elegante"></div>
+	<div class="box box-4" style="--img: url(https://i.pinimg.com/736x/79/27/fc/7927fc1fcfe745bd1ef535c063584170.jpg);" data-text="Vestidos de noche"></div>
+	<div class="box box-5" style="--img: url(https://i.pinimg.com/736x/89/7d/19/897d199589f88c469c820d8fb7b47aa8.jpg);" data-text="Patalones"></div>
+</div>
+</center>
+
 
     <section id="ropa-main">
       <div class="container">
