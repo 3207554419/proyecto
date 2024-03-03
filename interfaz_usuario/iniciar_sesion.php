@@ -66,30 +66,30 @@
 
   <div class="login-container">
     <div class="login-image">
-      <img src="/img/iniciosesionnnn.jpg">
+      <img src="../img/iniciosesionnnn.jpg">
     </div>
     <div class="login-form">
       <div class="close-button">
-        <a href="/interfaz_usuario/index.php"><img src="/img/cerrar X.png" alt=""></a>
+        <a href="/interfaz_usuario/index.php"><img src="../img/cerrar X.png" alt=""></a>
       </div>
       <div class="logo-and-title">
-        <img src="/img/logo.png" alt="">
+        <img src="../img/logo.png" alt="">
         <h2>Iniciar Sesión</h2>
       </div>
       <form class="form_iniciar_sesion">
         <div class="form-group">
-          <img src="/img/usuario img.png" alt="">
+          <img src="../img/usuario img.png" alt="">
           <input type="text" placeholder="Nombre Usuario" />
         </div>
         <div class="form-group">
-          <img src="/img/candado.png" alt="">
+          <img src="../img/candado.png" alt="">
           <input type="password" placeholder="Contraseña" />
         </div>
         <div class="ingresar-link">
-          <a href="../sistema/index2.php">Administrador</a>
+          <a href="../sistema/index.php">Administrador</a>
         </div>
         <div class="forgot-password">
-          <a href="../interfaz_usuario/recuperar_contraseña.php">Recuperar Contraseña</a>
+          <a href="recuperar_contraseña.php">Recuperar Contraseña</a>
         </div>
 
         <button class="boton_iniciar_sesion" type="submit"><a href="../interfaz_usuario/index.php"></a> Iniciar Sesión</button>

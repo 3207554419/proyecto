@@ -14,7 +14,7 @@
       <div class="col-md-6 col-md-offset-3">
         <div class="block text-center">
         <div class="close-button">
-        <a href="/interfaz_usuario/iniciar_sesion.php"><img src="/img/cerrar X.png" alt=""></a>
+        <a href="/interfaz_usuario/iniciar_sesion.php"><img src="../img/cerrar X.png" alt=""></a>
       </div>
         <div class="login-form">
       

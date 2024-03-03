@@ -56,8 +56,8 @@
             </div>
             <button class="boton_header" type="submit">Buscar</button>
             <div class="form-inline">
-              <a href=""><img src="/img/carrito-de-compras.png" alt="Carrito de Compras" class="icono-pequeno"></a>
-              <a href="../Interfaz_Usuario/iniciar_sesion.php"><img src="/img/usuario img.png" alt="Perfil" class="icono-pequeno"></a>
+              <a href=""><img src="../img/carrito-de-compras.png" alt="Carrito de Compras" class="icono-pequeno"></a>
+              <a href="../Interfaz_Usuario/iniciar_sesion.php"><img src="../img/usuario img.png" alt="Perfil" class="icono-pequeno"></a>
             </div>
 
           </form>
