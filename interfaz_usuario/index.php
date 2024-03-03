@@ -77,7 +77,7 @@
           <img class="carrusel_img" src="../img/ropa negra img 1.jpg" alt="...">
           <div class="texto_carrusel d-none d-md-block">
             <h5>NUEVOS PRODUCTOS</h5>
-            <p>Te invitamos a ver nuestros nuevos productos en Shoppy Plazy</p>
+            <p>Te invitamos a ver nuestros nuevos productos en nuestra tienda Shoppy Plazy !</p>
           </div>
         </div>
         <div class="carousel-item" data-bs-interval="2000">
