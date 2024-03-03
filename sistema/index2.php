@@ -70,8 +70,8 @@ if (!empty($_SESSION['active'])) {
             <input type="password" name="clave" placeholder="Contraseña">
             <div class="alert"><?php echo isset($alert) ? $alert : ''; ?></div>
             <input type="submit" value="Ingresar">
-            <center><a href="../interfaz_usuario/iniciar_sesion.php">Cancelar</a></center>
-           
+            <button class="boton_cancelar_admin"><a href="../interfaz_usuario/iniciar_sesion.php"> cancelar </a> </button>
+            
         </form>
 
     </section>
@@ -82,4 +82,3 @@ if (!empty($_SESSION['active'])) {
     </body>
 
 </html>
-<!-- <input type="submit" -->

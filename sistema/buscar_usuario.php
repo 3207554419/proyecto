@@ -1,5 +1,5 @@
 <?php 
-    include "../sistema/conexion.php"
+    include "/conexion.php"
 ?>
 
 <!DOCTYPE html>
