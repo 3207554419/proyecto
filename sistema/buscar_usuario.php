@@ -27,7 +27,7 @@
 
         ?> 
 		
-    <h1>Lista de Usuarios</h1>
+    <h1>Lista de Usuarios del Sistema</h1>
     <a href="registro_usuario.php" class="btn_new">Crear usuario</a>
 
     <form action="buscar_usuario.php" method="get" class="form_search">
